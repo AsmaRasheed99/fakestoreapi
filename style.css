@@ -1,0 +1,12 @@
+main {
+    display: flex;
+    text-align: center;
+}
+
+
+#product-cards{
+display: inline-flex;
+flex-wrap: wrap;
+font-size: larger;
+gap: 2rem;
+}
